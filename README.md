@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JiwooLEE&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,9)
 
 <br>
-<h3 align="center"> 📚 Studying 📚 </h3>
+<h3 align="center"> 📚 Learning 📚 </h3>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
