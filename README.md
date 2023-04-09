@@ -1,27 +1,59 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JiwooLEE&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,9)
+<div>	
+	<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=JiwooLEE&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,9" />	
+    
+<h3>👋 About me 👋</h3>
+🔮 Sungshin Woman University, Seoul, Korea (MAR 2020 ~ PRESENT)
 
-<br>
-<h3 align="center"> 📚 Learning 📚 </h3>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
-</p>
+*Bachelor of Computer Engineering*
 
-<br>
+Grade: Senior
+  
+  <h3>📚 Learning 📚</h3>
+  
+  <img src="http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" />
+  <img src="http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <br>
+  
+  <img src= "http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="http://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <br>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+	<img src="http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase" />
+	<img src="http://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS" />
+	<img src="http://img.shields.io/badge/-Amazon_EC2-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> 
+	<br>
 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+	<br>
+
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white" />
+  <img src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
+  
 <div align=center>
+<br>
+<br>
 
-![leejw-lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejw-lu&show_icons=true&theme=swift)
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejw-lu&layout=compact">--->
+<img src="https://github-readme-stats.vercel.app/api?username=leejw-lu&count_private=true&show_icons=true&theme=swift">
+    
+<br>
+</div>
+
 
 <!-- [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjwoo87)](https://solved.ac/jjjwoo87/) -->
