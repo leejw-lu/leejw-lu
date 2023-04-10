@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=JiwooLEE&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,9" />	
     
 <h3>👋 About me 👋</h3>
-🔮 Sungshin Woman University, Seoul, Korea (MAR 2020 ~ PRESENT)
+🔮 Sungshin Women University, Seoul, Korea (MAR 2020 ~ PRESENT)
 
 *Bachelor of Computer Engineering*
 
