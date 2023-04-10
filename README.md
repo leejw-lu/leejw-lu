@@ -10,7 +10,7 @@
 Grade: Senior
 		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jiwoojenny@gmail.com)
-[![Link Tree Badge](https://img.shields.io/badge/Link%20Tree-EF2D5E?style=flat&logoColor=white)](https://linktr.ee/jiwoow00)
+
 <!-- [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-FF5A5F?style=flat&logoColor=white)](https://jellyju27.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/Development%20Log-E9568E?style=flat&logoColor=white)]()
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-EF2D5E?style=flat&logoColor=white)]() -->
