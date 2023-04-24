@@ -5,7 +5,7 @@
 <h3>👋 About me 👋</h3>
 🔮 Sungshin Women University, Seoul, Korea (MAR 2020 ~ PRESENT)
 
-*Bachelor of Computer Engineering*
+*Bachelor of Computer Engineering, Curriculum for Teaching profession*
 
 Grade: Senior
 		
