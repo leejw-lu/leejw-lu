@@ -51,8 +51,8 @@ Grade: Senior
 
 <br>
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjwoo87)](https://solved.ac/jjjwoo87/)
+ <!--[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjwoo87)](https://solved.ac/jjjwoo87/)--->
 
 <div align=center>
 <br>
